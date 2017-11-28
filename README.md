@@ -1,2 +1,3 @@
-# second-homework
-solutions of the second homework
+# PCS2 second homework
+# Hackerrank Algorithms (Warmup, Strings, Sorting)
+# Language: Python 3
